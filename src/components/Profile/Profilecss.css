@@ -1,0 +1,21 @@
+.profile {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+.description > p {
+  text-align: center;
+}
+.avatar {
+  border-radius: 50%;
+}
+.stats {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.stats li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
